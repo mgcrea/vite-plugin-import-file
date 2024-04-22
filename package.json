@@ -2,8 +2,7 @@
   "name": "@mgcrea/vite-plugin-import-file",
   "version": "1.0.1",
   "description": "",
-  "private": true,
-  "author": "",
+  "author": "Olivier Louvignes <olivier@mgcrea.io>",
   "license": "MIT",
   "type": "module",
   "exports": {

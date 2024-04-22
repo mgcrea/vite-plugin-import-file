@@ -2,6 +2,7 @@ import { fileTypeFromBuffer } from "file-type";
 import fs from "node:fs";
 import path from "node:path";
 import type { Plugin } from "vite";
+import { __dirname } from "./utils/dirname";
 
 const mimeCache = new Map();
 
